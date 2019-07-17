@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 '''
 实现了中文向阿拉伯数字转换
 用于从小说章节名提取id来排序
@@ -60,3 +59,4 @@ def Cn2An(chinese_digits):
     result = result + tmp
     result = result + hnd_mln
     return result
+
