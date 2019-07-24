@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9df5aeef-144b-4b73-9a92-951a90a982e0" name="Default" comment="Scrapy_mongodb_ignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../NovelScrapy" beforeDir="false" afterPath="$PROJECT_DIR$/../../NovelScrapy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../xiaoshuo/NovelWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../../xiaoshuo/NovelWeb" afterDir="false" />
     </list>
@@ -74,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Fiction/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-133">
-              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            <state relative-caret-position="347">
+              <caret line="55" column="59" lean-forward="true" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
               <folding>
                 <element signature="e#24#38#0" expanded="true" />
               </folding>
@@ -367,7 +368,7 @@
       <workItem from="1563957553043" duration="594000" />
       <workItem from="1563969777706" duration="575000" />
       <workItem from="1563978187206" duration="1069000" />
-      <workItem from="1563979675022" duration="872000" />
+      <workItem from="1563979675022" duration="1504000" />
     </task>
     <task id="LOCAL-00001" summary="Scrapy use mongodb">
       <created>1563789196690</created>
@@ -390,11 +391,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563979951036</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Scrapy_mongodb_ignore">
+      <created>1563981234821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563981234821</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9584000" />
+    <option name="totallyTimeSpent" value="10216000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,7 +417,7 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.16809729" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.16809729" />
       <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.27231467" />
       <window_info id="Favorites" order="2" sideWeight="0.502439" side_tool="true" weight="0.27231467" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -421,8 +429,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32738853" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5379113" visible="true" weight="0.2878981" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.4620887" side_tool="true" weight="0.2878981" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.537196" visible="true" weight="0.2878981" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.46280402" side_tool="true" visible="true" weight="0.2878981" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4985694" weight="0.3477707" />
       <window_info anchor="bottom" id="Database Console" order="12" sideWeight="0.49848714" weight="0.42054576" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32744783" />
@@ -480,9 +488,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Scrapy use mongodb" />
-    <MESSAGE value="Scrapy_mongodb_ignore" />
     <MESSAGE value="scrapy_mongo_ignore2" />
-    <option name="LAST_COMMIT_MESSAGE" value="scrapy_mongo_ignore2" />
+    <MESSAGE value="Scrapy_mongodb_ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scrapy_mongodb_ignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -693,8 +701,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Fiction/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-133">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        <state relative-caret-position="347">
+          <caret line="55" column="59" lean-forward="true" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
           <folding>
             <element signature="e#24#38#0" expanded="true" />
           </folding>
