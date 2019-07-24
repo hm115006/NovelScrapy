@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9df5aeef-144b-4b73-9a92-951a90a982e0" name="Default" comment="Scrapy_mongodb_ignore">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../NovelScrapy" beforeDir="false" afterPath="$PROJECT_DIR$/../../NovelScrapy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../xiaoshuo/NovelWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../../xiaoshuo/NovelWeb" afterDir="false" />
@@ -45,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Fiction/spiders/novel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
+            <state relative-caret-position="1125">
               <caret line="82" column="44" selection-start-line="82" selection-start-column="44" selection-end-line="82" selection-end-column="44" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
@@ -72,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Fiction/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="51" column="54" lean-forward="true" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
+            <state relative-caret-position="241">
+              <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
               <folding>
                 <element signature="e#24#38#0" expanded="true" />
               </folding>
@@ -86,23 +88,18 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Fiction/middlewares.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+            <state relative-caret-position="600">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Fiction/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+            <state relative-caret-position="317">
+              <caret line="86" selection-start-line="86" selection-end-line="86" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -129,6 +126,7 @@
       <find>start_transaction</find>
       <find>for</find>
       <find>curr_digit</find>
+      <find>idea</find>
     </findStrings>
     <replaceStrings>
       <replace>client</replace>
@@ -141,7 +139,8 @@
         <option value="mm" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/../.." value="scrapy_mongo" />
@@ -160,12 +159,13 @@
         <option value="$PROJECT_DIR$/Fiction/items.py" />
         <option value="$PROJECT_DIR$/Fiction/spiders/sjzh.py" />
         <option value="$PROJECT_DIR$/Fiction/spiders/novel.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Fiction/pipelines.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="31" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -195,7 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,18 +205,18 @@
             <path>
               <item name="Fiction" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fiction" type="462c0819:PsiDirectoryNode" />
-              <item name="Fiction" type="462c0819:PsiDirectoryNode" />
+              <item name=".scrapy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Fiction" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fiction" type="462c0819:PsiDirectoryNode" />
               <item name="Fiction" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -369,6 +368,8 @@
       <workItem from="1563969777706" duration="575000" />
       <workItem from="1563978187206" duration="1069000" />
       <workItem from="1563979675022" duration="1900000" />
+      <workItem from="1563981868701" duration="926000" />
+      <workItem from="1563982987009" duration="591000" />
     </task>
     <task id="LOCAL-00001" summary="Scrapy use mongodb">
       <created>1563789196690</created>
@@ -402,7 +403,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10612000" />
+    <option name="totallyTimeSpent" value="12129000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -415,8 +416,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.16809729" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.41416308" />
       <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.27231467" />
       <window_info id="Favorites" order="2" sideWeight="0.502439" side_tool="true" weight="0.27231467" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -428,9 +430,9 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32738853" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.537196" visible="true" weight="0.2878981" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.46280402" side_tool="true" visible="true" weight="0.2878981" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4985694" weight="0.3477707" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.53648067" weight="0.2878981" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.4635193" side_tool="true" weight="0.2878981" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4985694" visible="true" weight="0.3477707" />
       <window_info anchor="bottom" id="Database Console" order="12" sideWeight="0.49848714" weight="0.42054576" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32744783" />
       <window_info anchor="bottom" id="Messages" order="14" />
@@ -441,6 +443,32 @@
       <window_info anchor="right" id="SciView" order="4" weight="0.32980332" />
       <window_info anchor="right" id="Database" order="5" weight="0.09757943" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.16809729" />
+      <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.27231467" />
+      <window_info id="Favorites" order="2" sideWeight="0.502439" side_tool="true" weight="0.27231467" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49919486" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8261803" weight="0.40254778" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.73913044" weight="0.54578316" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32738853" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.53648067" visible="true" weight="0.2878981" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.4635193" side_tool="true" visible="true" weight="0.2878981" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.4985694" weight="0.3477707" />
+      <window_info anchor="bottom" id="Database Console" order="12" sideWeight="0.49848714" weight="0.42054576" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32744783" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Mongo Explorer" order="0" weight="0.29399142" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="5" weight="0.09757943" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -657,9 +685,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="119" column="12" lean-forward="true" selection-start-line="119" selection-start-column="12" selection-end-line="119" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Fiction/spiders/novel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
+        <state relative-caret-position="1125">
           <caret line="82" column="44" selection-start-line="82" selection-start-column="44" selection-end-line="82" selection-end-column="44" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
@@ -674,23 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fiction/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fiction/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Fiction/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -698,13 +716,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Fiction/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Fiction/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="51" column="54" lean-forward="true" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
+        <state relative-caret-position="241">
+          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
           <folding>
             <element signature="e#24#38#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fiction/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="86" selection-start-line="86" selection-end-line="86" selection-end-column="25" />
         </state>
       </provider>
     </entry>
