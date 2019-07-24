@@ -75,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Fiction/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="55" column="59" lean-forward="true" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
+            <state relative-caret-position="272">
+              <caret line="51" column="54" lean-forward="true" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
               <folding>
                 <element signature="e#24#38#0" expanded="true" />
               </folding>
@@ -229,7 +229,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -368,7 +368,7 @@
       <workItem from="1563957553043" duration="594000" />
       <workItem from="1563969777706" duration="575000" />
       <workItem from="1563978187206" duration="1069000" />
-      <workItem from="1563979675022" duration="1504000" />
+      <workItem from="1563979675022" duration="1900000" />
     </task>
     <task id="LOCAL-00001" summary="Scrapy use mongodb">
       <created>1563789196690</created>
@@ -402,7 +402,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10216000" />
+    <option name="totallyTimeSpent" value="10612000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -415,7 +415,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.16809729" />
       <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.27231467" />
@@ -701,8 +700,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Fiction/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="55" column="59" lean-forward="true" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
+        <state relative-caret-position="272">
+          <caret line="51" column="54" lean-forward="true" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
           <folding>
             <element signature="e#24#38#0" expanded="true" />
           </folding>
